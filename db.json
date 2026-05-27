@@ -1,0 +1,17 @@
+{
+  "libros": [
+    {
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "editorial": "Reynal & Hitchcock",
+      "id": "1"
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "editorial": "yo mero",
+      "id": "r8PeCQzUHnI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
